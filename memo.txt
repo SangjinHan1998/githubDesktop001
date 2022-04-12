@@ -6,3 +6,6 @@ commit : 이 repository(저장소)의 버젼을 저장하는 시점. 현재 파�
 
 commit 의 제목을 적어줘야만 commit 할 수 있다. 
 commit 의 타이틀에는 너가 뭘 했는지 적어줘야만 한다. 
+
+이후 publish 작업을 해줘야만 한다. 
+publishing branch를 누른 후에 파일이 올라간다. 
