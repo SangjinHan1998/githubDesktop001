@@ -1,0 +1,8 @@
+md(mark down) 
+서식이 있는 문화
+README.md 파일은 모든 git repository 가 가지고 있어야만 하는 파일 
+
+commit : 이 repository(저장소)의 버젼을 저장하는 시점. 현재 파일 버젼 저장
+
+commit 의 제목을 적어줘야만 commit 할 수 있다. 
+commit 의 타이틀에는 너가 뭘 했는지 적어줘야만 한다. 
